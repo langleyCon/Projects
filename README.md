@@ -5,7 +5,9 @@ This repo consits mainly of projects I created during my education at the Univer
 #C Folder
 
 This folder contains a few prjects from my CS course on operating systems.
+
    -The programs simulate
+   
         * Cpu Scheduler
         * Command line program
         * Page Fault Simulator
